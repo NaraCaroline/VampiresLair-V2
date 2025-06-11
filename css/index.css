@@ -22,7 +22,7 @@ body {
     overflow-x: hidden;
     color: var(--text-light);
     background-color: var(--primary-dark);
-    background-image: url("img/balada.png");
+    background-image: url("https://github.com/NaraCaroline/VampiresLair-V2/blob/main/img/balada.png?raw=true");
     background-repeat: no-repeat, no-repeat;
     background-position: top, bottom;
     background-size: cover;
@@ -64,7 +64,7 @@ body::before {
     left: 5%;
     width: 70px;
     height: 70px;
-    background: #00000071 url("img/vl.svg") center center no-repeat;
+    background: #00000071 url("https://raw.githubusercontent.com/NaraCaroline/VampiresLair-V2/3da43c9aab5825fdea2a1c0523982c5ed64ea3a4/img/vl.svg") center center no-repeat;
     background-size: 38px 38px;
     border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
@@ -214,11 +214,11 @@ body::before {
 }
 
 .dj-card.dj-ana img {
-    content: url("img/iconana.png");
+    content: url("https://github.com/NaraCaroline/VampiresLair-V2/blob/main/img/iconana.png?raw=true");
 }
 
 .dj-card.dj-luiza img {
-    content: url("img/iconluiza.png");
+    content: url("https://github.com/NaraCaroline/VampiresLair-V2/blob/main/img/iconluiza.png?raw=true");
 }
 
 .dj-card h3 {
