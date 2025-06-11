@@ -22,7 +22,7 @@ body {
     overflow-x: hidden;
     color: var(--text-light);
     background-color: var(--primary-dark);
-    background-image: url("/img/balada.png");
+    background-image: url("./img/balada.png");
     background-repeat: no-repeat, no-repeat;
     background-position: top, bottom;
     background-size: cover;
@@ -64,7 +64,7 @@ body::before {
     left: 5%;
     width: 70px;
     height: 70px;
-    background: #00000071 url("/img/vl.svg") center center no-repeat;
+    background: #00000071 url("./img/vl.svg") center center no-repeat;
     background-size: 38px 38px;
     border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
@@ -214,11 +214,11 @@ body::before {
 }
 
 .dj-card.dj-ana img {
-    content: url("/img/iconana.png");
+    content: url("./img/iconana.png");
 }
 
 .dj-card.dj-luiza img {
-    content: url("/img/iconluiza.png");
+    content: url("./img/iconluiza.png");
 }
 
 .dj-card h3 {
